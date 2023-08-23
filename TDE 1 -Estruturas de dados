@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 
 //receber os dados do meu usuario:
@@ -31,7 +32,9 @@ int main (void)
   printf("TOTAL = R$ %.2lf\n", total);
   
 }
+*/
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #include <stdio.h>
 #include <stdlib.h>
 

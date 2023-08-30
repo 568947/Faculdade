@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imbd</title>
+</head>
+<body>
+    <figure>
+        <img src="/IMG/the boys.jpg" alt="Série the boys">
+    </figure>
+    <h1>The Boys</h1>
+    <h2>8,7/10</h2>
+    <p>
+        A Terra é habitada por super-heróis que são um inspiração para a humanidade. Porém, esses protetores têm um lado sinistro que a maioria das pessoas desconhece. Se eles usam seus poderes para o mal, Hughie, Billy e o resto do time devem detê-los.
+    </p>
+
+    <h3>Temporadas</h3>
+    <li>
+        Temporada 1
+    </li>
+    <li>
+        Temporada 2
+    </li>
+    <li>
+        Temporada 3
+    </li>
+    <hr>
+    <h4>Registre seu voto</h4>
+    <hr>
+    <form action="">
+        <label for="">Seu Nome</label>
+        <input type="text" >
+        <br>
+        <label for="">Seu E-mail</label>
+        <input type="email">
+        <br>
+        <label for="">Seu Estado</label>
+        <select name="" id="">
+            <option >Ce</option>
+            <option >Sp</option>
+            <option >Mg</option>
+        </select>
+        <br>
+        <label for="">Qual a nota da série</label>
+        <form action="">
+            Qual a nota da série<br>
+            <input type="range" min="1" max="5">
+            <input type="text">
+            <br>
+            <button>Enviar Nota</button>
+        </form>
+            
+    </form>
+
+</body>
+</html>

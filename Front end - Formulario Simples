@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Cadastros</title>
+</head>
+<body>
+    <h1>Fórmulário de Cadastros</h1> 
+    <p>Preencha seus dados e clique em cadastrar</p>
+    <hr>
+    <form action="">
+        <label for="user_name">Nome:</label>
+        <input type="text" placeholder="Primeiro nome:">
+        <br>
+        <label for="">Sobrenome:</label>
+        <input type="user_name"  placeholder="Insira seu Sobrenome">
+        <br>
+        <label for="E-mail">E-mail:</label>
+        <input type="email" placeholder="Informe seu e-mail">
+        <br>
+        <label for="">telefone:</label>
+        <input type="number" placeholder="Informe seu telefone">
+        <hr>
+        <label for="">Data de Nascimento</label>
+        <input type="date">
+        <hr>
+        <label for="">Ocupação</label>
+        <br>
+        <input type="radio">
+        <label for="">Estudante</label>
+        
+        <br>
+        <input type="radio">
+        <label for="">Profissional Liberal</label>
+        
+        <br>
+        <input type="radio">
+        <label for="">Contratado</label>
+        
+        <hr>
+        <label for="">Selecione uma Foto</label>
+        <input type="file">
+        <hr>
+        <input type="checkbox">
+        <label for="">Concordo com o envio dos dados</label>
+        
+        <hr>
+        <button>Cadastrar</button>
+
+    </form>
+</body>
+</html

@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+nav{
+    background-color:   rgb(58, 21, 94) ;
+    padding: 10px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: left;
+    margin-top: 60px;
+}
+.listas ul li {
+    list-style: none;
+    display: block;
+    margin: 25px 0;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.listas ul li a:hover{
+    color: orange;
+}

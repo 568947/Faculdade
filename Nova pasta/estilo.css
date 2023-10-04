@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+    background-color:#2C2A2A;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 365.90px;
+    height: 509.05px;
+    border-radius: 12px;
+}
+.foto img{
+    display: block;
+    margin: 0 auto;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 70%;
+
+}
+h3{
+    color: #A39E9E;
+}
+p{
+    color: #A39E9E;
+    font-size: medium;
+}
+.button1 button{
+    background-color: #CF13A6;
+    border: none;
+    width: 104.1px;
+    height: 23.43px ;
+    border-radius: 6px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+
+}
+.button button{
+    background-color:#1ACF83 ;
+    width: 303.75px;
+    height: 55.49px;
+    padding: 20px;
+    border: none;
+    border-radius: 15px;
+    color: #FFFFFF;
+    margin-top: 10px;
+    padding-top: 16px;
+    font-size: 20px;
+}

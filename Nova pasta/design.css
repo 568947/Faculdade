@@ -1,0 +1,59 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-image: url(/DC.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.card{
+    background-color: #2C2A2A;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 600px;
+    height: 607px;
+    padding: 5px;
+    border-radius: 12px;
+}
+h3{
+    margin-left: 30px;
+    color: white;
+}
+input{
+    background-color: #222020;
+    border: none;
+    width: 500px;
+    height: 20px;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+ .msg textarea{
+    background-color:#222020 ;
+    width: 400px;
+    height: 100px;
+    padding: 50px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 12px;
+    text-align: left;
+    padding-top: 12px;
+    padding-left: 10px;
+}
+button{
+    background-color: #7719D6;
+    border: none;
+    border-radius: 12px;
+    width: 90%;
+    height: 40px;
+    padding: 25px;
+    margin-left: 30px;
+    display: block;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 12px;
+    
+    
+}
